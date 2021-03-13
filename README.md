@@ -40,9 +40,10 @@ Single-cell RNA sequencing data.
 
 ## 4. Installation
 1.	Clone the repository.
-2.	Install necessary libraries as mentioned.
-3.	Download the data using accession numbers.
-4.	Install Spyder or Jupyter notebook or any other python IDE to run the experiment.
+git clone https://github.com/saiteja-danda/Non-linear-and-linear-techniques-for-dimensionality-reduction-visualization-on-single-cell-data.git
+3.	Install necessary libraries as mentioned.
+4.	Download the data using accession numbers.
+5.	Install Spyder or Jupyter notebook or any other python IDE to run the experiment.
 
 ## 5. Running the code
 Input can be read in the form of .txt, .csv and .mtx files. All the datasets mentioned above are in these formats only.
