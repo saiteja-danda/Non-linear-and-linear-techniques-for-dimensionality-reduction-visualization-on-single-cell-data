@@ -20,11 +20,11 @@ Grouping cells into different clusters to find heterogeneity is one of the signi
 The whole code is written in Python (3.4+).
 Most parts of the implementation are using Scanpy package, used for single-cell analysis.
 You need below packages to replicate this work.
-- Scanpy
+- [Scanpy] (https://scanpy.readthedocs.io/en/stable/)
 - Numpy
 - Pandas
-- Sklearn – metrics, KMeans, FastICA, LocallyLinearEmbedding, Isomap
-- Plotly.graph_objects
+- [Scikit-learn] (https://scikit-learn.org/stable/) – metrics, KMeans, FastICA, LocallyLinearEmbedding, Isomap
+- [Plotly.graph_objects] (https://plotly.com/python/graph-objects/) 
 
 ## 3. Datasets used
 Single-cell RNA sequencing data.
@@ -52,7 +52,7 @@ You can easily implement this project as every cell in the code file has comment
 Open source communities are such unique places to learn, innovate, and contribute. Any contributions to this project are deeply appreciated.
 
 ## 7. Acknowledgments
-This research was partially supported by Mitacs and Natural Sciences and Engineering Research Council of Canada, NSERC. I want to thank Dr. Luis Rueda for his continuous support and motivation and the University of Windsor Office of Research and Innovation.
+This research was partially supported by Mitacs and Natural Sciences and Engineering Research Council of Canada, NSERC. I want to thank [Dr. Luis Rueda] (https://luisrueda.myweb.cs.uwindsor.ca/) for his continuous support and motivation and the University of Windsor Office of Research and Innovation.
 
 ## 8. License
-  See License.txt
+  See [License] (https://github.com/saiteja-danda/Non-linear-and-linear-techniques-for-dimensionality-reduction-visualization-on-single-cell-data./blob/main/LICENSE)
