@@ -14,7 +14,7 @@ This implementation is part of my thesis.
 ## 1. Introduction
 Single-cell sequencing (scRNA-seq) is an emerging technology used to capture cell information at a single-nucleotide resolution and by which individual cells can be analyzed separately. Single-cell data is high-dimensional and sparse data lead to some analytical challenges. Analyzing scRNA-seq data can be divided into two main categories: at the cell level and gene level. Finding cell sub-networks or highly deferentially expressed tissue-specific gene lists is one of the common challenges at the cell level.
 
-Grouping cells into different clusters to find heterogeneity is one of the significant steps in single-cell data analysis. However, sue to high-dimensional data its uncertain to get good clustering and visualization. Hence, non-linear dimensionality reduction techniques such as MLLE are efficient, and linear methods like ICA are excellent in visualization. The combination of both techniques combined with clustering gives the best clustering scores. 
+Grouping cells into different clusters to find heterogeneity is one of the significant steps in single-cell data analysis. However, due to high-dimensional data its uncertain to get good clustering and visualization. Hence, non-linear dimensionality reduction techniques such as MLLE are efficient, and linear methods like ICA are excellent in visualization. The combination of both techniques combined with clustering gives the best clustering scores. 
 
 ## 2. Getting Started
 The whole code is written in Python (3.4+).
